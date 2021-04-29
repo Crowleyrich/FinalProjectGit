@@ -45,7 +45,7 @@ protobuf==3.15.8
 pyarrow==3.0.0
 pydeck==0.6.1
 pyreadline==2.1
-pywin32==300
+pywin32==3.0.0
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
